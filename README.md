@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/@itsaaryanchaubey" target="_blank"><img src="https://ibb.co/QHBr73X" title="Aaryan Chaubey YouTube" /></a>
+<a href="https://www.youtube.com/@itsaaryanchaubey" target="_blank"><img src="" title="Aaryan Chaubey YouTube" /></a>
 # Fully Automated YouTube Shorts Channel
 > This code will show you how to setup and fully autmated YouTube Channel.
 > Content is gathered from Reddit using images both animated and still images will work.
