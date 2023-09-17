@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/@itsaaryanchaubey" target="_blank"><img src="https://i.imgur.com/xqj5z4b.png" title="Clarity Coders YouTube" /></a>
+<a href="https://www.youtube.com/@itsaaryanchaubey" target="_blank"><img src="https://ibb.co/QHBr73X" title="Aaryan Chaubey YouTube" /></a>
 # Fully Automated YouTube Shorts Channel
 > This code will show you how to setup and fully autmated YouTube Channel.
 > Content is gathered from Reddit using images both animated and still images will work.
@@ -12,6 +12,3 @@
 - create a client_secrets.json for your YouTube API details. 
 - Both are covered in the video if you need help!
 
-## Contact!
-- YouTube <a href="https://www.youtube.com/claritycoders" target="_blank">Clarity Coders</a>
-- Chat with me! <a href="https://discord.gg/cAWW5qq" target="_blank">Discord</a>
